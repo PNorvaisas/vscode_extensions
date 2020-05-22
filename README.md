@@ -1,1 +1,1 @@
-# vscode_extensions
+# Useful VSCode extensions
